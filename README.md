@@ -1,16 +1,31 @@
-# Growth Mindset
-### My Name Is Nada Al-abdullah,i wrote some information about * Groth Mindset *
-### A growth mindset is when the person understand
-### his abilities and then developed it 
 
-## to keep yourself in a growth mindset you should :
- * analyze mistake 
- * accept challenges
- * learn new things
+# Code 201 Reading Notes
+### This page is talk about the reading in course 201
+>we use :
+* unix and the Command Prompt
+* Git and GitHub
+* Text Editor
+* Chrome Dev Tools
 
->this image is show the diffrent between Growth Mindset and
-Fixed Mindset
-![Growth Mindset & Fixed Mindset](growth.png)
+[VSC](https://code.visualstudio.com/)
 
-* The Refrences 
-[Groth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[GitHub](https://github.com/)
+
+
+| Number        | Table 1 | Table 2     |
+| :---          | :----:  |        ---: |
+|      1        |         |             |
+|      2        |         |             |
+|      3        |         |             |
+|      4        |         |             |
+|      5        |         |             |
+|      6        |         |             |
+|      7        |         |             |
+|      8        |         |             |
+|      9        |         |             |
+|      10       |         |             |
+|      11       |         |             |
+|      12       |         |             |
+|      13       |         |             |
+|      14       |         |             |
+|      15       |         |             |
